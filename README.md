@@ -1,2 +1,2 @@
 # loan_prediction
-Loan Prediction SVM along with Feature Engineering principles
+Loan Prediction with SVM, Neural Network and Logistic Regression along with Feature Engineering principles
